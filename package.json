@@ -1,0 +1,24 @@
+{
+  "name": "mrblolyk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "dotenv node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WKC-Gaming-Club/mrBlolyk.git"
+  },
+  "author": "Diogo Iwasaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WKC-Gaming-Club/mrBlolyk/issues"
+  },
+  "homepage": "https://github.com/WKC-Gaming-Club/mrBlolyk#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv-cli": "^4.0.0"
+  }
+}
